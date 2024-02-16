@@ -1,0 +1,7 @@
+#CL
+
+- [ ] Dockerfil
+
+- [ ] copy
+
+- [ ] gite
