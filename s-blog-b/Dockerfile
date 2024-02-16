@@ -6,7 +6,7 @@ RUN apt install -y git
 RUN apt install cron
 
 RUN rm -rf /var/www/html
-RUN git clone https://github.com/shimguh/s-blog-ab.git /var/www/html
+RUN git clone https://github.com/shimguh/s.blog.git /var/www/html
 
 COPY blog-pull-cronjob /etc/cron.d
 RUN crontab /etc/cron.d/blog-pull-cronjob
