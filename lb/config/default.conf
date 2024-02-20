@@ -1,6 +1,6 @@
 upstream serv {
-    server s-blog-a:80;
-    server s-blog:80;
+    server s-blog-a.internal:80;
+    server s-blog.internal:80;
 }
 
 server {
