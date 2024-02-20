@@ -1,0 +1,447 @@
+
+19_Feb_2024_17_04_55:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   0.25%     48.66MiB / 80MiB    60.83%    516B / 0B        0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          0.00%     9.727MiB / 70MiB    13.90%    116MB / 2.46GB   0B / 0B     11
+
+19_Feb_2024_17_04_59:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   0.23%     48.66MiB / 80MiB    60.83%    586B / 0B        0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          0.00%     9.727MiB / 70MiB    13.90%    116MB / 2.46GB   0B / 0B     11
+
+19_Feb_2024_17_05_03:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   0.22%     48.66MiB / 80MiB    60.83%    586B / 0B        0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          0.00%     9.734MiB / 70MiB    13.91%    116MB / 2.46GB   0B / 0B     11
+
+19_Feb_2024_17_05_06:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   0.20%     48.65MiB / 80MiB    60.82%    656B / 0B        0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          0.00%     9.734MiB / 70MiB    13.91%    116MB / 2.46GB   0B / 0B     11
+
+19_Feb_2024_17_05_10:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   0.13%     48.65MiB / 80MiB    60.82%    656B / 0B        0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          0.00%     9.734MiB / 70MiB    13.91%    116MB / 2.46GB   0B / 0B     11
+
+19_Feb_2024_17_05_13:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   0.15%     48.65MiB / 80MiB    60.82%    656B / 0B        0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          0.00%     9.734MiB / 70MiB    13.91%    116MB / 2.46GB   0B / 0B     11
+
+19_Feb_2024_17_05_16:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   0.12%     48.66MiB / 80MiB    60.82%    656B / 0B        0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          0.00%     9.734MiB / 70MiB    13.91%    116MB / 2.46GB   0B / 0B     11
+
+19_Feb_2024_17_05_20:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   0.25%     48.66MiB / 80MiB    60.82%    726B / 0B        0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          0.00%     9.734MiB / 70MiB    13.91%    116MB / 2.46GB   0B / 0B     11
+
+19_Feb_2024_17_05_24:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   0.41%     48.66MiB / 80MiB    60.83%    726B / 0B        0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          0.00%     9.734MiB / 70MiB    13.91%    116MB / 2.46GB   0B / 0B     11
+
+19_Feb_2024_17_05_27:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   0.30%     48.66MiB / 80MiB    60.82%    726B / 0B        0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          0.00%     9.734MiB / 70MiB    13.91%    116MB / 2.46GB   0B / 0B     11
+
+19_Feb_2024_17_05_31:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   0.27%     48.66MiB / 80MiB    60.82%    726B / 0B        0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          0.00%     9.734MiB / 70MiB    13.91%    116MB / 2.46GB   0B / 0B     11
+
+19_Feb_2024_17_05_34:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   0.42%     48.66MiB / 80MiB    60.83%    726B / 0B        0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          0.00%     9.734MiB / 70MiB    13.91%    116MB / 2.46GB   0B / 0B     11
+
+19_Feb_2024_17_05_38:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   0.31%     48.66MiB / 80MiB    60.82%    726B / 0B        0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          0.00%     9.734MiB / 70MiB    13.91%    116MB / 2.46GB   0B / 0B     11
+
+19_Feb_2024_17_05_41:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   0.30%     48.66MiB / 80MiB    60.82%    726B / 0B        0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          0.00%     9.734MiB / 70MiB    13.91%    116MB / 2.46GB   0B / 0B     11
+
+19_Feb_2024_17_05_45:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   0.17%     48.66MiB / 80MiB    60.83%    726B / 0B        0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          0.00%     9.734MiB / 70MiB    13.91%    116MB / 2.46GB   0B / 0B     11
+
+19_Feb_2024_17_05_49:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   7.75%     49.63MiB / 80MiB    62.04%    3.35MB / 3.36MB   0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          1.72%     9.719MiB / 70MiB    13.88%    116MB / 2.46GB    0B / 0B     11
+
+19_Feb_2024_17_05_52:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   9.70%     49.86MiB / 80MiB    62.32%    7.43MB / 7.45MB   0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          3.43%     9.734MiB / 70MiB    13.91%    116MB / 2.47GB    0B / 0B     11
+
+19_Feb_2024_17_05_56:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   9.49%     50.43MiB / 80MiB    63.04%    14.5MB / 14.6MB   0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          3.30%     9.727MiB / 70MiB    13.90%    116MB / 2.47GB    0B / 0B     11
+
+19_Feb_2024_17_05_59:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   10.34%    52.81MiB / 80MiB    66.02%    20.1MB / 20.1MB   0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          3.52%     9.855MiB / 70MiB    14.08%    116MB / 2.48GB    0B / 0B     11
+
+19_Feb_2024_17_06_03:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   7.65%     53.14MiB / 80MiB    66.43%    25.3MB / 25.4MB   0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          4.55%     19.21MiB / 70MiB    27.45%    117MB / 2.48GB    0B / 0B     18
+
+19_Feb_2024_17_06_06:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   10.24%    53.16MiB / 80MiB    66.45%    30.8MB / 30.9MB   0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          3.35%     9.73MiB / 70MiB     13.90%    117MB / 2.49GB    0B / 0B     11
+
+19_Feb_2024_17_06_10:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   10.19%    53.17MiB / 80MiB    66.46%    34.8MB / 34.9MB   0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          2.51%     9.746MiB / 70MiB    13.92%    117MB / 2.49GB    0B / 0B     11
+
+19_Feb_2024_17_06_14:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   8.20%     53.18MiB / 80MiB    66.47%    42.1MB / 42.2MB   0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          3.44%     9.875MiB / 70MiB    14.11%    117MB / 2.5GB     0B / 0B     11
+
+19_Feb_2024_17_06_17:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   10.67%    53.41MiB / 80MiB    66.76%    48.8MB / 48.7MB   0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          2.51%     9.742MiB / 70MiB    13.92%    118MB / 2.5GB     0B / 0B     11
+
+19_Feb_2024_17_06_21:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   9.36%     53.89MiB / 80MiB    67.36%    59.3MB / 59.3MB   0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          4.11%     9.75MiB / 70MiB     13.93%    118MB / 2.51GB    0B / 0B     11
+
+19_Feb_2024_17_06_24:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   9.39%     54.01MiB / 80MiB    67.51%    66.9MB / 67MB    0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          4.86%     9.945MiB / 70MiB    14.21%    119MB / 2.53GB   0B / 0B     11
+
+19_Feb_2024_17_06_28:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   9.70%     54.15MiB / 80MiB    67.69%    76.9MB / 77.2MB   0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          4.58%     9.738MiB / 70MiB    13.91%    119MB / 2.54GB    0B / 0B     11
+
+19_Feb_2024_17_06_31:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   9.65%     54.72MiB / 80MiB    68.40%    90.3MB / 90.4MB   0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          3.90%     9.777MiB / 70MiB    13.97%    119MB / 2.54GB    0B / 0B     11
+
+19_Feb_2024_17_06_35:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   9.37%     55MiB / 80MiB       68.75%    100MB / 101MB    0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          4.72%     9.789MiB / 70MiB    13.98%    120MB / 2.55GB   0B / 0B     11
+
+19_Feb_2024_17_06_38:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   9.09%     55.03MiB / 80MiB    68.78%    110MB / 111MB    0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          5.03%     9.781MiB / 70MiB    13.97%    120MB / 2.56GB   0B / 0B     11
+
+19_Feb_2024_17_06_42:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   10.17%    55.15MiB / 80MiB    68.94%    121MB / 121MB    0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          4.26%     9.758MiB / 70MiB    13.94%    121MB / 2.57GB   0B / 0B     11
+
+19_Feb_2024_17_06_46:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   8.92%     55.25MiB / 80MiB    69.07%    132MB / 132MB    0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          5.05%     9.898MiB / 70MiB    14.14%    121MB / 2.58GB   0B / 0B     11
+
+19_Feb_2024_17_06_49:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   10.36%    55.46MiB / 80MiB    69.33%    146MB / 146MB   0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          4.30%     9.758MiB / 70MiB    13.94%    122MB / 2.6GB   0B / 0B     11
+
+19_Feb_2024_17_06_53:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   10.51%    55.84MiB / 80MiB    69.80%    156MB / 156MB    0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          5.35%     9.785MiB / 70MiB    13.98%    122MB / 2.61GB   0B / 0B     11
+
+19_Feb_2024_17_06_55:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   9.99%     56.57MiB / 80MiB    70.71%    171MB / 171MB    0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          4.81%     9.77MiB / 70MiB     13.96%    123MB / 2.62GB   0B / 0B     11
+
+19_Feb_2024_17_06_59:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   9.86%     56.6MiB / 80MiB     70.75%    182MB / 183MB    0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          4.83%     9.781MiB / 70MiB    13.97%    124MB / 2.64GB   0B / 0B     11
+
+19_Feb_2024_17_07_02:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   9.60%     56.91MiB / 80MiB    71.14%    200MB / 200MB    0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          4.66%     13.32MiB / 70MiB    19.03%    124MB / 2.65GB   0B / 0B     18
+
+19_Feb_2024_17_07_06:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   9.42%     57MiB / 80MiB       71.25%    214MB / 215MB    0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          4.43%     19.24MiB / 70MiB    27.49%    125MB / 2.66GB   0B / 0B     18
+
+19_Feb_2024_17_07_10:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   10.17%    56.92MiB / 80MiB    71.15%    229MB / 230MB    0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          4.26%     9.793MiB / 70MiB    13.99%    125MB / 2.67GB   0B / 0B     11
+
+19_Feb_2024_17_07_13:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   10.12%    57.15MiB / 80MiB    71.44%    239MB / 239MB    0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          4.89%     9.941MiB / 70MiB    14.20%    126MB / 2.69GB   0B / 0B     11
+
+19_Feb_2024_17_07_17:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   10.42%    57.25MiB / 80MiB    71.56%    251MB / 252MB    0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          6.14%     9.945MiB / 70MiB    14.21%    127MB / 2.71GB   0B / 0B     11
+
+19_Feb_2024_17_07_20:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   9.99%     58.14MiB / 80MiB    72.68%    273MB / 274MB    0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          4.08%     9.785MiB / 70MiB    13.98%    127MB / 2.72GB   0B / 0B     11
+
+19_Feb_2024_17_07_24:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   10.19%    58.59MiB / 80MiB    73.24%    288MB / 289MB    0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          4.94%     9.797MiB / 70MiB    14.00%    129MB / 2.74GB   0B / 0B     11
+
+19_Feb_2024_17_07_27:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   9.60%     58.6MiB / 80MiB     73.25%    314MB / 315MB    0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          4.73%     9.898MiB / 70MiB    14.14%    129MB / 2.75GB   0B / 0B     11
+
+19_Feb_2024_17_07_31:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   9.67%     59.57MiB / 80MiB    74.47%    331MB / 332MB    0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          5.43%     9.828MiB / 70MiB    14.04%    130MB / 2.77GB   0B / 0B     11
+
+19_Feb_2024_17_07_35:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   9.99%     59.23MiB / 80MiB    74.03%    352MB / 353MB    0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          4.89%     9.832MiB / 70MiB    14.05%    131MB / 2.79GB   0B / 0B     11
+
+19_Feb_2024_17_07_38:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   9.19%     59.05MiB / 80MiB    73.82%    371MB / 373MB    0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          4.92%     9.918MiB / 70MiB    14.17%    132MB / 2.81GB   0B / 0B     11
+
+19_Feb_2024_17_07_42:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   10.82%    59.73MiB / 80MiB    74.66%    388MB / 389MB    0B / 0B     30
+c1c62f687c72   awsgoo-blog-2          4.40%     9.828MiB / 70MiB    14.04%    133MB / 2.83GB   0B / 0B     11
+
+19_Feb_2024_17_07_45:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   10.04%    61.61MiB / 80MiB    77.01%    405MB / 407MB    0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          4.26%     9.949MiB / 70MiB    14.21%    133MB / 2.84GB   0B / 0B     11
+
+19_Feb_2024_17_07_49:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   9.40%     62.09MiB / 80MiB    77.61%    421MB / 423MB    0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          4.43%     9.895MiB / 70MiB    14.14%    135MB / 2.87GB   0B / 0B     11
+
+19_Feb_2024_17_07_52:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   9.68%     61.89MiB / 80MiB    77.37%    445MB / 447MB    0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          4.96%     9.891MiB / 70MiB    14.13%    136MB / 2.89GB   0B / 0B     11
+
+19_Feb_2024_17_07_56:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   10.63%    62.96MiB / 80MiB    78.70%    472MB / 474MB    0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          4.91%     9.848MiB / 70MiB    14.07%    136MB / 2.91GB   0B / 0B     11
+
+19_Feb_2024_17_08_00:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   9.80%     62.71MiB / 80MiB    78.39%    495MB / 498MB    0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          4.32%     9.965MiB / 70MiB    14.24%    137MB / 2.93GB   0B / 0B     11
+
+19_Feb_2024_17_08_03:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   9.23%     63MiB / 80MiB       78.75%    510MB / 512MB    0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          5.18%     16.29MiB / 70MiB    23.27%    138MB / 2.95GB   0B / 0B     18
+
+19_Feb_2024_17_08_06:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   8.92%     62.87MiB / 80MiB    78.58%    532MB / 534MB    0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          4.69%     19.25MiB / 70MiB    27.50%    139MB / 2.96GB   0B / 0B     18
+
+19_Feb_2024_17_08_09:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   10.43%    63.57MiB / 80MiB    79.46%    547MB / 550MB    0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          4.57%     10.02MiB / 70MiB    14.32%    140MB / 2.99GB   0B / 0B     11
+
+19_Feb_2024_17_08_13:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   9.70%     63.41MiB / 80MiB    79.27%    567MB / 570MB    0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          5.25%     10.03MiB / 70MiB    14.32%    141MB / 3.01GB   0B / 0B     11
+
+19_Feb_2024_17_08_16:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   10.96%    64.55MiB / 80MiB    80.69%    593MB / 595MB    0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          5.30%     9.969MiB / 70MiB    14.24%    142MB / 3.02GB   0B / 0B     11
+
+19_Feb_2024_17_08_20:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   10.48%    66.41MiB / 80MiB    83.01%    616MB / 619MB    0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          5.31%     9.883MiB / 70MiB    14.12%    143MB / 3.04GB   0B / 0B     11
+
+19_Feb_2024_17_08_24:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   9.59%     66.89MiB / 80MiB    83.62%    638MB / 641MB    0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          4.92%     9.914MiB / 70MiB    14.16%    144MB / 3.06GB   0B / 0B     11
+
+19_Feb_2024_17_08_27:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   10.66%    67.47MiB / 80MiB    84.34%    655MB / 656MB    0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          5.67%     9.918MiB / 70MiB    14.17%    145MB / 3.09GB   0B / 0B     11
+
+19_Feb_2024_17_08_30:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   9.14%     66.98MiB / 80MiB    83.72%    681MB / 685MB   0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          4.61%     9.953MiB / 70MiB    14.22%    146MB / 3.1GB   0B / 0B     11
+
+19_Feb_2024_17_08_33:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   10.09%    66.83MiB / 80MiB    83.54%    706MB / 710MB    0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          5.26%     9.922MiB / 70MiB    14.17%    147MB / 3.13GB   0B / 0B     11
+
+19_Feb_2024_17_08_37:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   10.65%    67.65MiB / 80MiB    84.56%    733MB / 736MB    0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          5.12%     10.02MiB / 70MiB    14.31%    148MB / 3.16GB   0B / 0B     11
+
+19_Feb_2024_17_08_40:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   9.91%     67.86MiB / 80MiB    84.82%    758MB / 760MB    0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          4.83%     10.16MiB / 70MiB    14.51%    149MB / 3.18GB   0B / 0B     11
+
+19_Feb_2024_17_08_44:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   9.18%     67.22MiB / 80MiB    84.02%    774MB / 778MB   0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          4.72%     9.941MiB / 70MiB    14.20%    150MB / 3.2GB   0B / 0B     11
+
+19_Feb_2024_17_08_46:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   11.82%    68.26MiB / 80MiB    85.33%    797MB / 801MB    0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          3.46%     9.988MiB / 70MiB    14.27%    151MB / 3.22GB   0B / 0B     11
+
+19_Feb_2024_17_08_50:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   10.93%    67.98MiB / 80MiB    84.97%    825MB / 830MB    0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          4.47%     10.02MiB / 70MiB    14.31%    152MB / 3.24GB   0B / 0B     11
+
+19_Feb_2024_17_08_54:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   9.53%     67.4MiB / 80MiB     84.25%    853MB / 857MB    0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          4.79%     9.973MiB / 70MiB    14.25%    154MB / 3.27GB   0B / 0B     11
+
+19_Feb_2024_17_08_57:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   9.40%     68.17MiB / 80MiB    85.21%    880MB / 885MB   0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          5.92%     10.06MiB / 70MiB    14.37%    155MB / 3.3GB   0B / 0B     11
+
+19_Feb_2024_17_09_01:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   8.36%     67.85MiB / 80MiB    84.81%    899MB / 904MB    0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          7.62%     19.5MiB / 70MiB     27.85%    156MB / 3.33GB   0B / 0B     18
+
+19_Feb_2024_17_09_05:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   10.41%    68.45MiB / 80MiB    85.56%    931MB / 936MB    0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          3.63%     19.3MiB / 70MiB     27.57%    157MB / 3.34GB   0B / 0B     18
+
+19_Feb_2024_17_09_08:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   9.76%     70.6MiB / 80MiB     88.25%    951MB / 951MB    0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          3.76%     10.05MiB / 70MiB    14.36%    159MB / 3.37GB   0B / 0B     11
+
+19_Feb_2024_17_09_12:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   8.83%     68.8MiB / 80MiB     86.01%    974MB / 980MB    0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          4.01%     9.969MiB / 70MiB    14.24%    160MB / 3.39GB   0B / 0B     11
+
+19_Feb_2024_17_09_14:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   9.58%     69.22MiB / 80MiB    86.53%    1GB / 1.01GB     0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          4.35%     10.03MiB / 70MiB    14.32%    160MB / 3.41GB   0B / 0B     11
+
+19_Feb_2024_17_09_18:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   9.76%     72.93MiB / 80MiB    91.17%    1.01GB / 1.01GB   0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          3.80%     10.06MiB / 70MiB    14.37%    162MB / 3.44GB    0B / 0B     11
+
+19_Feb_2024_17_09_22:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   8.87%     73.02MiB / 80MiB    91.28%    1.04GB / 1.04GB   0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          0.58%     9.957MiB / 70MiB    14.22%    162MB / 3.45GB    0B / 0B     11
+
+19_Feb_2024_17_09_25:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   8.79%     70.75MiB / 80MiB    88.44%    1.06GB / 1.07GB   0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          4.43%     10.13MiB / 70MiB    14.47%    163MB / 3.47GB    0B / 0B     11
+
+19_Feb_2024_17_09_29:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   10.84%    72.55MiB / 80MiB    90.69%    1.09GB / 1.09GB   0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          1.91%     10.05MiB / 70MiB    14.36%    164MB / 3.49GB    0B / 0B     11
+
+19_Feb_2024_17_09_32:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   5.83%     71.18MiB / 80MiB    88.97%    1.1GB / 1.11GB   0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          8.03%     10.45MiB / 70MiB    14.93%    166MB / 3.52GB   0B / 0B     11
+
+19_Feb_2024_17_09_36:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   10.26%    69.11MiB / 80MiB    86.39%    1.13GB / 1.14GB   0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          4.52%     10.09MiB / 70MiB    14.42%    166MB / 3.54GB    0B / 0B     11
+
+19_Feb_2024_17_09_40:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   10.03%    70.67MiB / 80MiB    88.34%    1.15GB / 1.16GB   0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          4.73%     10.32MiB / 70MiB    14.74%    168MB / 3.56GB    0B / 0B     11
+
+19_Feb_2024_17_09_42:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   7.28%     69.07MiB / 80MiB    86.34%    1.17GB / 1.18GB   0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          4.59%     10.14MiB / 70MiB    14.49%    169MB / 3.59GB    0B / 0B     11
+
+19_Feb_2024_17_09_46:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   10.55%    70.54MiB / 80MiB    88.17%    1.2GB / 1.2GB    0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          4.11%     10.17MiB / 70MiB    14.53%    170MB / 3.61GB   0B / 0B     11
+
+19_Feb_2024_17_09_48:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   10.55%    72.72MiB / 80MiB    90.90%    1.22GB / 1.22GB   0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          4.21%     10.19MiB / 70MiB    14.56%    171MB / 3.63GB    0B / 0B     11
+
+19_Feb_2024_17_09_52:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   2.80%     70.71MiB / 80MiB    88.39%    1.24GB / 1.25GB   0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          3.64%     10.89MiB / 70MiB    15.55%    172MB / 3.65GB    0B / 0B     11
+
+19_Feb_2024_17_09_56:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   9.73%     73.06MiB / 80MiB    91.32%    1.27GB / 1.28GB   0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          3.37%     10.23MiB / 70MiB    14.62%    174MB / 3.68GB    0B / 0B     11
+
+19_Feb_2024_17_10_00:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   10.60%    74.52MiB / 80MiB    93.14%    1.3GB / 1.31GB   0B / 0B     31
+c1c62f687c72   awsgoo-blog-2          4.46%     10.46MiB / 70MiB    14.94%    174MB / 3.7GB    0B / 0B     11
+
+19_Feb_2024_17_10_03:
+CONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O   PIDS
+7e807ab97bbf   awsgoo-nginx-proxy-1   11.37%    62.33MiB / 80MiB    77.91%    1.32GB / 1.33GB   0B / 0B     32
+c1c62f687c72   awsgoo-blog-2          3.24%     19.86MiB / 70MiB    28.37%    176MB / 3.74GB    0B / 0B     18
+
+19_Feb_2024_17_10_07:
