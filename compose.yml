@@ -8,7 +8,8 @@ services:
     volumes:
       - /var/run/docker.sock:/tmp/docker.sock:ro
     depends_on:
-      - blog
+      - blog_a
+      - blog_b
     deploy:
       resources:
         limits:
@@ -18,10 +19,10 @@ services:
           cpus: '0.05'
           memory: 20M
 
-  blog:
+  blog_a:
     # build: ../../docker_file/httpd
-    # image: pysatellite/myblog
-    image : hghghg/myblog-a
+    # image: hghghg/myblog-a
+    build: s-blog-a/
     deploy:
       mode: replicated
       replicas: 1 # https://docs.docker.com/compose/compose-file/deploy/#replicas
@@ -36,5 +37,25 @@ services:
       - "80"
     environment:
       - VIRTUAL_HOST=aws.google.com
+      # - VIRTUAL_HOST=aws.google.com,bloga.google.com
+      - VIRTUAL_PORT=80
+
+  blog_b:
+    # build: ../../docker_file/httpd
+    build: s-blog-b/
+    deploy:
+      mode: replicated
+      replicas: 1 # https://docs.docker.com/compose/compose-file/deploy/#replicas
+      resources: # https://docs.docker.com/compose/compose-file/compose-file-v3/#resources
+        limits:
+          cpus: '0.05'
+          memory: 70M
+        reservations:
+          cpus: '0.01'
+          memory: 10M
+    expose:
+      - "80"
+    environment:
+      - VIRTUAL_HOST=google.aws.com
       - VIRTUAL_PORT=80
 
