@@ -26,4 +26,4 @@ sudo docker run -d --name lb --network=abc -p 8000:80 lb
 figlet ps
 sudo docker ps
 
-# sl -Fa
+sl -Fa
